@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>AI Daily Brief — Ad-Free (TTS)</title>
+    <link>https://benedict-chng.github.io/aidailybrief-noads/</link>
+    <language>en-us</language>
+    <itunes:author>Beng (Auto-generated)</itunes:author>
+    <description>Ad-free version of The AI Daily Brief podcast. Sponsor reads are stripped from transcripts and audio is regenerated with Edge TTS (Aria Neural voice).</description>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Fable 5 Shut Down by US Government</title>
+      <description>A national-security directive forced Anthropic to abruptly cut off Fable 5 and Mythos 5 for all foreign nationals worldwide. Original episode: 2026-06-13.</description>
+      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/ai-daily-brief-2026-06-13.mp3" type="audio/mpeg" length="11534336"/>
+      <pubDate>Fri, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1920</itunes:duration>
+      <guid>ai-daily-brief-2026-06-13</guid>
+    </item>
+  </channel>
+</rss>
