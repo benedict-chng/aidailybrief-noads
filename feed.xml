@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Fable 5 Crisis Continues</title>
+      <description>The weekend's Anthropic-vs-White House standoff over Fable 5 grinds into Monday with no resolution — dueling press releases, the Amazon jailbreak report, the wellness-retreat meme, and the dawning realization that this fight was never going to be settled by engineers. Original episode: 2026-06-15.</description>
+      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/ai-daily-brief-2026-06-15.mp3" type="audio/mpeg" length="10200240"/>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
+      <guid>ai-daily-brief-2026-06-15</guid>
+    </item>
+    <item>
       <title>Fable 5 Shut Down by US Government</title>
       <description>A national-security directive forced Anthropic to abruptly cut off Fable 5 and Mythos 5 for all foreign nationals worldwide. Original episode: 2026-06-13.</description>
       <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/ai-daily-brief-2026-06-13.mp3" type="audio/mpeg" length="11534336"/>
