@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Models Trying to Fill the Fable Gap</title>
+      <description>With Fable still dark, the G7 turns into a global plea for access to US frontier models — and enterprises stop waiting, MacGyvering Chinese open weights, compound APIs, and smart routing into something that gets close to Fable-level performance. Covers the G7 AI summit, Noam Shazeer leaving Google for OpenAI, OpenAI sunsetting Pulse, GLM 5.2 beating Fable on benchmarks, Microsoft eyeing DeepSeek for Copilot, Cursor Composer 2.5, OpenRouter Fusion, and Harvey's worker-advisor architecture. Original episode: 2026-06-18.</description>
+      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/ai-daily-brief-2026-06-18.mp3" type="audio/mpeg" length="11492208"/>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1740</itunes:duration>
+      <guid>ai-daily-brief-2026-06-18</guid>
+    </item>
+    <item>
       <title>觀點│正經龍鳳配 — 賠了夫人又折兵！灰頭土臉 80 歲！</title>
       <description>正經龍鳳配 (2026-06-15): 賠了夫人又折兵！灰頭土臉 80 歲！— Audio extracted directly from YouTube.</description>
       <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/viewpoints-zhenglongfengpei-2026-06-15.mp3" type="audio/mpeg" length="34844036"/>
