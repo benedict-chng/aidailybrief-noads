@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>How Chinese Make Sense of the AI Future</title>
+      <description>A ChinaTalk deep-dive into how Chinese society is grappling with AI's impact on workers, labor politics, and the national psyche. Covers the physical-vs-digital workforce divide, young people's anxiety about white-collar automation, why state-sector workers are insulated, how courts and state media mediate tensions, why data center protests don't exist in China, robot tax debates, and the deeper crisis of meaning beneath AI anxiety. Based on original reporting by Irene Zhang and Nick Corvino for ChinaTalk. Original article: 2026-06-19.</description>
+      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/chinatalk-china-ai-2026-06-19.mp3" type="audio/mpeg" length="3099168"/>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>517</itunes:duration>
+      <guid>chinatalk-china-ai-2026-06-19</guid>
+    </item>
+    <item>
       <title>The Models Trying to Fill the Fable Gap</title>
       <description>With Fable still dark, the G7 turns into a global plea for access to US frontier models — and enterprises stop waiting, MacGyvering Chinese open weights, compound APIs, and smart routing into something that gets close to Fable-level performance. Covers the G7 AI summit, Noam Shazeer leaving Google for OpenAI, OpenAI sunsetting Pulse, GLM 5.2 beating Fable on benchmarks, Microsoft eyeing DeepSeek for Copilot, Cursor Composer 2.5, OpenRouter Fusion, and Harvey's worker-advisor architecture. Original episode: 2026-06-18.</description>
       <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/ai-daily-brief-2026-06-18.mp3" type="audio/mpeg" length="11492208"/>
