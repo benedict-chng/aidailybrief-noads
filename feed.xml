@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Your Company Doesn't Need an AI Strategy</title>
+      <description>White House–Anthropic talks may finally be thawing, Bernie Sanders unveils a $7T AI sovereign wealth fund, Accenture gets hammered as the market prices in AI disruption, and Satya Nadella's viral "token capital" essay redefines the enterprise AI conversation: you don't need an AI strategy, you need a learning loop you actually own. Covers the Fable outage fallout, Nadella's full essay, Microsoft Frontier Tuning, the applied AI layer, and Harvey's vision for law firms. Original episode: 2026-06-19.</description>
+      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/ai-daily-brief-2026-06-19.mp3" type="audio/mpeg" length="11160144"/>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1685</itunes:duration>
+      <guid>ai-daily-brief-2026-06-19</guid>
+    </item>
+    <item>
       <title>How Chinese Make Sense of the AI Future</title>
       <description>A ChinaTalk deep-dive into how Chinese society is grappling with AI's impact on workers, labor politics, and the national psyche. Covers the physical-vs-digital workforce divide, young people's anxiety about white-collar automation, why state-sector workers are insulated, how courts and state media mediate tensions, why data center protests don't exist in China, robot tax debates, and the deeper crisis of meaning beneath AI anxiety. Based on original reporting by Irene Zhang and Nick Corvino for ChinaTalk. Original article: 2026-06-19.</description>
       <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/chinatalk-china-ai-2026-06-19.mp3" type="audio/mpeg" length="3099168"/>
