@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Transmission Dominance with Chinese Characteristics</title>
+      <description>A summary of Dana Golden's ChinaTalk deep-dive comparing the US and China transmission buildout — and what it means for AI, energy security, and the future of grid infrastructure. China has built more HVDC in 15 years than the US has in its entire history. Covers the scale of the gap, why "China builds fast" is a shallow explanation, the fragmented US regulatory patchwork, two fundamentally different grid design philosophies, the Grain Belt Express saga, market mechanism irony (US has software, China has hardware), the broken timescale mismatch, batteries vs transmission as complements not substitutes, supply chain concentration in HVDC converters, advantages of the American decentralized approach, direct implications for AI data center buildout, and whether the gap is insurmountable. Original article: 2026-06-21.</description>
+      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/chinatalk-transmission-2026-06-21.mp3" type="audio/mpeg" length="9246528"/>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1541</itunes:duration>
+      <guid>chinatalk-transmission-2026-06-21</guid>
+    </item>
+    <item>
       <title>Yes, Transformers Are a Problem (Full Reading)</title>
       <description>The full article by Dana Golden, economist at Argonne National Labs, read in its entirety. A comprehensive deep-dive into the power electronics supply chain crisis — gallium, wide-bandgap semiconductors, HVDC, solid-state transformers, Wolfspeed's collapse, and policy recommendations. Original article: 2026-06-20.</description>
       <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/chinatalk-transformers-2026-06-20.mp3" type="audio/mpeg" length="20973312"/>
