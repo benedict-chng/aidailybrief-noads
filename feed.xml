@@ -9,12 +9,20 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Yes, Transformers Are a Problem — But So Are Converters, Inverters, and MMCs</title>
-      <description>A ChinaTalk deep-dive by Dana Golden, economist at Argonne National Labs, on the power electronics supply chain crisis facing the US grid and AI infrastructure. The transformer shortage is just the tip of the iceberg — the real vulnerabilities lie in gallium (99% controlled by China), wide-bandgap semiconductors (SiC and GaN), HVDC converter stations (dominated by just 4 companies globally), and the coming solid-state transformer revolution. Covers how China already pulled the trigger on gallium exports, the Wolfspeed Chapter 11 cautionary tale, NVIDIA's 800 VDC data center transition, why critical minerals anxiety is mostly misplaced (except for gallium), and what policy tools can fix the grid supply chain before it's too late. Original article: 2026-06-20.</description>
+      <title>Yes, Transformers Are a Problem (Full Reading)</title>
+      <description>The full article by Dana Golden, economist at Argonne National Labs, read in its entirety. A comprehensive deep-dive into the power electronics supply chain crisis — gallium, wide-bandgap semiconductors, HVDC, solid-state transformers, Wolfspeed's collapse, and policy recommendations. Original article: 2026-06-20.</description>
       <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/chinatalk-transformers-2026-06-20.mp3" type="audio/mpeg" length="20973312"/>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>3495</itunes:duration>
       <guid>chinatalk-transformers-2026-06-20</guid>
+    </item>
+    <item>
+      <title>Yes, Transformers Are a Problem (Summary)</title>
+      <description>A condensed ~25-minute summary of Dana Golden's ChinaTalk deep-dive on the power electronics supply chain crisis. Covers the key arguments: why fixing the transformer shortage won't fix the grid, how gallium is the real chokepoint (99% China-controlled), why most "critical minerals" anxiety is misplaced, the Wolfspeed cautionary tale, NVIDIA's 800V data center revolution, the four-company HVDC oligopoly, and ten concrete policy recommendations. Original article: 2026-06-20.</description>
+      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/chinatalk-transformers-2026-06-20-summary.mp3" type="audio/mpeg" length="10399968"/>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1733</itunes:duration>
+      <guid>chinatalk-transformers-2026-06-20-summary</guid>
     </item>
     <item>
       <title>Your Company Doesn't Need an AI Strategy</title>
